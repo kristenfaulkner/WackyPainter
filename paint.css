@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+#easel {
+  width: 500px;
+  margin: 0 auto;
+  outline: burlywood 5px solid;
+}
+
+.square {
+  width: 20px;
+  height: 20px;
+  outline: thin solid black;
+  display: inline-block;
+}
+
+form {
+  margin: 10px auto;
+}
